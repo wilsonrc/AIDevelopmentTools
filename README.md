@@ -11,3 +11,9 @@ Collection of AI development tools
 ### Prompting
 - [Learn Prompting](https://learnprompting.org/) Learn how to use ChatGPT and other AI tools to accomplish your goals using our free and open-source curriculum, designed for all skill levels!
 - [Prompt Engineering Course - DeepMinds](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) you will learn how to use a large language model (LLM) to build new and powerful applications quickly. 
+
+### Documentation
+- [https://readable.so/](https://readable.so/) generate comprehensive + customizable comments for your source code in seconds.
+ 
+### Code Review 
+- [whatthediff](https://whatthediff.ai/) automatically writes pull request descriptions, sends out summarized notifications to keep non-technical stakeholders in the loop, and helps you to refactor minor issues during the review.
